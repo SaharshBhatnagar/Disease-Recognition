@@ -253,5 +253,5 @@ if selected == "Breast Cancer Prediction":
     st.title("Breast Cancer Prediction")
     st.info("This AI-model is under development.")
     st.markdown(
-        "For more information, visit My [GitHub repository]."
+        "For more information, visit My [https://github.com/SaharshBhatnagar/Disease-Recognition]."
     )
