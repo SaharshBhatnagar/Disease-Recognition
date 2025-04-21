@@ -254,4 +254,4 @@ if selected == "Parkinsons Prediction":
  #   st.info("This AI-model is under development.")
  #   st.markdown(
  #       "For more information, visit My [https://github.com/SaharshBhatnagar/Disease-Recognition]."
-    )
+  #  )
