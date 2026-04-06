@@ -1,3 +1,4 @@
-*.devcontainer
-/PPT
-/PROJECT REPORT
+.devcontainer
+
+PPT/
+PROJECT REPORT/
